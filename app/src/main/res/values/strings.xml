@@ -3,4 +3,6 @@
     <string name="title_home">Home</string>
     <string name="title_upgrades">Upgrades</string>
     <string name="title_notifications">Notifications</string>
+    <string name="count">Humans: %1$d</string>
+    <string name="clickerContentDesc">Minecraft Steve</string>
 </resources>
