@@ -11,6 +11,7 @@ material = "1.13.0"
 constraintlayout = "2.2.1"
 lifecycleLivedataKtx = "2.9.4"
 lifecycleViewmodelKtx = "2.9.4"
+mathparserOrgMxparser = "6.1.0"
 navigationFragmentKtx = "2.9.5"
 navigationUiKtx = "2.9.5"
 recyclerview = "1.4.0"
@@ -29,6 +30,7 @@ androidx-lifecycle-viewmodel-ktx = { group = "androidx.lifecycle", name = "lifec
 androidx-navigation-fragment-ktx = { group = "androidx.navigation", name = "navigation-fragment-ktx", version.ref = "navigationFragmentKtx" }
 androidx-navigation-ui-ktx = { group = "androidx.navigation", name = "navigation-ui-ktx", version.ref = "navigationUiKtx" }
 androidx-recyclerview = { group = "androidx.recyclerview", name = "recyclerview", version.ref = "recyclerview" }
+mathparser-org-mxparser = { group = "org.mariuszgromada.math", name = "MathParser.org-mXparser", version.ref = "mathparserOrgMxparser" }
 
 [plugins]
 android-application = { id = "com.android.application", version.ref = "agp" }

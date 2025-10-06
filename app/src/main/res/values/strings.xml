@@ -2,7 +2,12 @@
     <string name="app_name">Coin Clicker</string>
     <string name="title_home">Home</string>
     <string name="title_upgrades">Upgrades</string>
-    <string name="title_notifications">Notifications</string>
+    <string name="title_goals">Goals</string>
+    <string name="desc">In this game, the roles are reversed. YOU are the coin and your goal is to click and get enough humans to meet your coin girlfriend.</string>
     <string name="count">Humans: %1$d</string>
+    <string name="incompleteGoalButton">Goal: %1$d/%2$d</string>
+    <string name="completeGoalButton">Meet GF!</string>
+    <string name="incompleteGoalDesc">Get enough humans to meet your long distance girlfriend!</string>
+    <string name="completeGoalDesc">You have enough! Get ready and click here to meet her!</string>
     <string name="clickerContentDesc">Minecraft Steve</string>
 </resources>
