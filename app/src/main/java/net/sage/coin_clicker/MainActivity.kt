@@ -13,7 +13,7 @@ import net.sage.coin_clicker.databinding.ActivityMainBinding
 val UPGRADES = arrayOf(mapOf("id" to "hm-v2", "name" to "Human Maker v2", "price" to 200, "mul" to "*2", "desc" to "Adds two humans on click to multiplier"),
                         mapOf("id" to "hm-v3","name" to "Human Maker v3", "price" to 300, "mul" to "*5", "desc" to "Adds five humans on click to multiplier")
                         )
-val GOAL = 100
+val GOAL = 69000
 class MainActivity : AppCompatActivity() {
 
     private lateinit var binding: ActivityMainBinding
