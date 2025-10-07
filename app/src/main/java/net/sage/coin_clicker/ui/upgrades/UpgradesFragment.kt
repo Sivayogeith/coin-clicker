@@ -49,7 +49,6 @@ class UpgradesFragment : FragmentWithSave() {
                     save.upgrades.set(id, bought)
                     save.multiplier =
                         save.multiplier.plus(clickedUpgrade["mul"].toString())
-                    save()
 
                     toast = Toast.makeText(
                         view.context,
@@ -58,6 +57,7 @@ class UpgradesFragment : FragmentWithSave() {
                     )
 
                     save.count -= price
+                    save()
                 } else {
                     toast = Toast.makeText(
                         view.context,
